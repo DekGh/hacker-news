@@ -1,0 +1,19 @@
+.single-news {
+  &__info {
+    margin-top: 20px;
+    padding: 20px 20px ;
+    width: 1060px;
+    height: 160px;
+    background-color: dodgerblue;
+    margin-bottom: 50px;
+  }
+  &__update__button {
+    margin-left: 20px;
+  }
+  &__comment__item {
+    background-color: dodgerblue;
+    padding: 10px 20px;
+    margin-top: 40px;
+    list-style-type: none;
+  }
+}
