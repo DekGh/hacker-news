@@ -1,0 +1,15 @@
+.news {
+  &__grid {
+    display: grid;
+    padding: 0px;
+  }
+  &__item {
+    width: 1070px;
+    height: 120px;
+    margin-bottom: 20px;
+    background-color: dodgerblue;
+    list-style-type: none;
+    padding: 15px;
+    cursor: pointer;
+  }
+}
